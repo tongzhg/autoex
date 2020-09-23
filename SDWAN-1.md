@@ -69,7 +69,7 @@ forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 
 
 ## Sales Play Category
-Secure SD-WAN
+Enable Secure Access
 
 ## sales for Category
-Secure SD-WAN
+Enable Secure Access
