@@ -1,8 +1,8 @@
-Secure SD-WAN (6)
+Secure SD-WAN (7)
 ==============
 
 ## Description
-This is a test case - v6
+This is a test case - v7
 
 ## Tag
 
