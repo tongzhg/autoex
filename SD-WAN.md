@@ -51,10 +51,6 @@ To use this application you will need:
  <img src="https://d1wqs00nbeeox1.cloudfront.net/staging/smartsheet/rc-upload-1593427827859-3/1593428426231.png" />
  
  
- ## Whitepaper
-forPre[WhitePaperVal](http://www.whitePaper.com/)
-
-forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 
 ## Related Sandbox
 [Catalyst 9800 Wireless LAN Controller](https://devnetsandbox.cisco.com/RM/Diagram/Index/9900a725-c584-42ae-8d51-3ac87533c5c5?diagramType=Topology)
