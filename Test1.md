@@ -28,6 +28,6 @@ Enable Secure Access
 
 <a class="hy" style="color: red;" href="https://www.youtube.com/watch?v=8tEulfI-bbc" target="_blank">New window</a>
 
-<img src="http://img.youtube.com/vi/8tEulfI-bbc/0.jpg" style="width: 100%;"></img>
+<img src="http://img.youtube.com/vi/8tEulfI-bbc/0.jpg" width="100" style="width: 100%;"></img>
 
 <dui-yutobe src="https://www.youtube.com/watch?v=8tEulfI-bbc">YT</dui-yutobe>
