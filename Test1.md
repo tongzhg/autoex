@@ -26,4 +26,4 @@ Enable Secure Access
 ## sales for Category
 Enable Secure Access
 
-[video](https://www.youtube.com/watch?v=8tEulfI-bbc){:target="_blank"}
+[video](https://www.youtube.com/watch?v=8tEulfI-bbc target="_blank")
