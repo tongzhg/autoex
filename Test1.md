@@ -28,4 +28,4 @@ Enable Secure Access
 
 <a href="https://www.youtube.com/watch?v=8tEulfI-bbc" target="_blank">New window</a>
 
-<dui-yutobe src="https://www.youtube.com/watch?v=8tEulfI-bbc"></dui-yutobe>
+<dui-yutobe src="https://www.youtube.com/watch?v=8tEulfI-bbc">YT</dui-yutobe>
