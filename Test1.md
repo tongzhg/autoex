@@ -31,3 +31,5 @@ Enable Secure Access
 <img src="http://img.youtube.com/vi/8tEulfI-bbc/0.jpg" width="100" style="width: 100%;"></img>
 
 <dui-yutobe src="https://www.youtube.com/watch?v=8tEulfI-bbc">YT</dui-yutobe>
+
+<iframe allowfullscreen="" src="https://www.youtube.com/embed/8tEulfI-bbc"></iframe>
