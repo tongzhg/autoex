@@ -3,6 +3,8 @@ URL Monitor for AppDynamics
 
 This extension works only with the standalone machine agent. It has been tested against various URLs with different authentication mechanisms.
 
+[mailtxl@163.com](mailto:mailtxl@163.com)
+
 # Use Case
 
 The URL monitoring extension gathers metrics and sends them to the AppDynamics Metric Browser.
@@ -321,4 +323,5 @@ Always feel free to fork and contribute any changes directly here on [GitHub](ht
 |Controller Compatibility  |4.5 or Later|
 |Machine Agent Version     |4.5.13+     |
 |Last Update               |15/01/2021  |
+
 
